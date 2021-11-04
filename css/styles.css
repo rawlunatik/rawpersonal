@@ -52,22 +52,7 @@ body {
 .nerd {
   text-decoration: underline;
 }
-.shenintro {
-  margin-left: 200px;
-  margin-right: 200px;
-}
-.posterex {
-  margin-left: 200px;
-  margin-right: 200px;
-}
-.clubshenevent {
-  margin-left: 200px;
-  margin-right: 200px;
-}
-.cogworkex {
-  margin-left: 200px;
-  margin-right: 200px;
-}
+
 
 .pix {
   display: inline-block;
@@ -77,4 +62,8 @@ h1 {
   margin-bottom: 0;
   font-family: 'Sacramento';
   font-size: 562.5%;
+}
+p {
+  margin-left: 20em;
+  margin-right: 20em;
 }
